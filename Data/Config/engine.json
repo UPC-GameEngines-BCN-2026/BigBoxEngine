@@ -1,0 +1,12 @@
+{
+  "name": "BigBoxEngine",
+  "version": "0.1.0",
+  "description": "A 3D Game Engine developed at UPC CITM",
+  "organization": "UPC CITM",
+  "authors": [
+    "Biel Cadenas Benedicto",
+    "José Tur de Zarandieta",
+    "Alba"
+  ],
+  "license_file": "Data/LICENSE.txt"
+}

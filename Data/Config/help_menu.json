@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "label": "Github Documentation",
+      "url": "https://github.com/UPC-GameEngines-BCN-2026/BigBoxEngine#bigboxengine"
+    },
+
+    {
+      "label": "Report a Bug",
+      "url": "https://github.com/TU_USUARIO/BigBoxEngine/issues"
+    },
+
+    {
+      "label": "Download Latest",
+      "url": "https://github.com/UPC-GameEngines-BCN-2026/BigBoxEngine/releases"
+    },
+
+    { "separator": true },
+    {
+      "label": "About",
+      "action": "about"
+    }
+
+  ]
+}

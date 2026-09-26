@@ -8,6 +8,7 @@
 			"name": "imgui",
 			"features": [ "sdl3-binding", "opengl3-binding", "docking-experimental" ]
 		},
-		"imguizmo"
-	] 
+		"imguizmo",
+		"nlohmann-json"
+	]
 }
